@@ -32,7 +32,7 @@ function App() {
     <NavBar title="Textutils" about="about"/>
      <Alert alert={alert?alert.msg:""} type={alert?alert.type:''} /> 
      <Routes>
-<Route path='/' element={<TextArea alertFn={showAlert} />}></Route>
+<Route path='/TextUtils' element={<TextArea alertFn={showAlert} />}></Route>
 <Route path='/about' element={<About/>}> </Route>
 <Route path='/home' element={<Home/>}></Route>
 </Routes>
