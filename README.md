@@ -1,8 +1,6 @@
-# React + Vite
+# Text Utility App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React app solves some small looking but major problem, some times we want our long text to be in uppercase only similarly in lowercase only. In this app you just need to copy and paste the text in the text area and by just one click you can get the solution for your problem
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
